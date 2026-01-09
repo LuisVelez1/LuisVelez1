@@ -53,12 +53,15 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
 <div align="center">
-  <a href="https://github.com/LuisVelez1" title="Go to Source">
-    <img src="https://github-profile-trophy.vercel.app/?username=LuisVelez1&theme=radical" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuisVelez1&show_icons=true&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=LuisVelez1&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVelez1&layout=compact&theme=radical&hide_border=true" />
+
 </div>
-<!--- trophy (end) -->
+
 
 
