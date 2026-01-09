@@ -56,12 +56,7 @@
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/LuisVelez1" title="Go to Source">
-    <img
-      align="center"
-      width="84%"
-      src="https://github-profile-trophy.vercel.app/?username=LuisVelez1&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"
-      alt="GitHub Profile Trophy"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=LuisVelez1&theme=radical" />
   </a>
 </div>
 <!--- trophy (end) -->
