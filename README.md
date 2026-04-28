@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm Luis <strong>✨</strong> </h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/luiseduardovelez"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unprogramadornace"/></a>
-    <a href = "mailto:luiseduardovelez881@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@LuisVelez" /></a>
+    <a href = "mailto:luiseduardovelez88@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@LuisVelez" /></a>
   </p>
 <br>
 <h2 align="center">About  Me 😎🤏</h2>
